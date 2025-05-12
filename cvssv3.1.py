@@ -89,7 +89,7 @@ class CVSSCalculatorTab(ITab):
             <h3>CVSS Calculator</h3>
             <p><b>Version:</b> 1.0</p>
             <p><b>Creator:</b> Asif Nawaz Minhas</p>
-            <p><b>Website:</b> <a href="https://asifnawazminhas.github.io/">asifnawazminhas.github.io</a></p>
+            <p><b>Website:</b> <a href="https://www.asifnawazminhas.com//">asifnawazminhas.com</a></p>
             <p><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/asifnawazminhas/">Asif Nawaz Minhas</a></p>
 	    <p><b>License:</b> MIT License</p>
         </body>
